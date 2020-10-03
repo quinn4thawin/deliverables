@@ -10,4 +10,4 @@
 
 #### Lab #5 (DOM) -- https://codepen.io/quinn4thawin/pen/LYNaxXZ
 
-#### Lab #6 (Tic Tac Toe) --  
+#### Lab #6 (Tic Tac Toe) -- https://repl.it/@quinn4thawin/TicTacToe-1#script.js
